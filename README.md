@@ -1,2 +1,2 @@
 # BRARPG
-My progress learning Benjamin Rivers' ARPG Godot tutorial
+My progress learning Benjamin Anderson's ARPG Godot tutorial
